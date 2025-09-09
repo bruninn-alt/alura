@@ -1,8 +1,4 @@
-# alura
-surf
 
-<think>
-First, the user wants a program in JavaScript for functionality, with CSS for visuals, creating a website with just the homepage (tela inicial), themed around SURF. I need to provide the code as a single HTML file containing HTML, CSS, and JavaScript.
 
 
 ## Gathering project details  
